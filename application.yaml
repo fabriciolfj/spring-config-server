@@ -1,5 +1,5 @@
 token.expiration_time: 86400
-token.secret: teste
+token.secret: senhanova
 login.url.path: /users/login
 
 eureka:
